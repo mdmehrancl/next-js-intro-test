@@ -1,0 +1,9 @@
+.homemessage1 {
+    padding: 20px;
+}
+
+.homemessage1 li{
+    list-style-type: none;
+    margin-bottom: 10px;
+    color: grey;
+}
